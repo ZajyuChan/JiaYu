@@ -1,0 +1,7 @@
+com\jiayu\model\JiayuUser.class
+com\jiayu\dao\JiayuUserDao.class
+com\jiayu\controller\JiayuTestController.class
+com\jiayu\controller\JiayuUserController.class
+com\jiayu\service\impl\JiayuUserServiceImpl.class
+com\jiayu\service\JiayuUserService.class
+com\jiayu\model\User.class
